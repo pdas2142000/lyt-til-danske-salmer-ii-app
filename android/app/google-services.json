@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958991115135",
+    "project_id": "lyt-til-danske-salmer",
+    "storage_bucket": "lyt-til-danske-salmer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958991115135:android:32a8893a21adda3233f04a",
+        "android_client_info": {
+          "package_name": "dk.lyttildanskesalmer.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958991115135-0pcr5hb1tjma3imbrp1kopmidacjnpd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsRe7HIF8VkTma21Z9kqXjrodr8bjS7yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958991115135-0pcr5hb1tjma3imbrp1kopmidacjnpd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
